@@ -1,0 +1,35 @@
+body {
+    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Nunito', sans-serif;
+    font-size: 3rem;
+    background: rgb(202, 202, 202);
+}
+
+.container {
+    width: 96vw;
+    height: 94vh;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.click {
+    width: 20vw;
+    min-height: 2rem;
+    margin: 24px;
+    font-size: 2rem;
+    border-radius: 4px;
+    background-color: rgb(178, 160, 255);
+}
+
+details {
+    width: 70vw;
+    background-color: rgb(255, 207, 207);
+    border-radius: 4px;
+}
+
+.punchline {
+    margin-left: 52px;
+}
